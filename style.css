@@ -1,0 +1,39 @@
+body {
+	font-family: serif;
+	font-size: 12pt;
+}
+
+table {
+	width: 40em;
+	border-collapse: collapse;
+}
+
+table.params {
+	width: 25em;
+	margin-left: 2em;
+}
+
+td {
+	border: 1px solid black;
+}
+
+td.method {
+	font-family: monospace;
+}
+
+h2.method {
+	font-family: monospace;
+	font-size: 14pt;
+}
+
+h3 {
+	font-size: 12pt;
+}
+
+h3.indent {
+	padding-left: 2em;
+}
+
+p.indent {
+	padding-left: 2em;
+}
